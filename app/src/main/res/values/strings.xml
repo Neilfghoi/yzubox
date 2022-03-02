@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">yzubox</string>
+
+    <string-array name="allmusic">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    >
+</resources>
