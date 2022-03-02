@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263251916368",
+    "project_id": "yzubox",
+    "storage_bucket": "yzubox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263251916368:android:3524503962ba57a9910355",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263251916368-ivan6cesf8pvg2ca2j857935b592fu2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3x1uD6Txq5M2oS-ySQaTGobTm_qLdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263251916368-ivan6cesf8pvg2ca2j857935b592fu2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
