@@ -24,8 +24,14 @@ public class search extends AppCompatActivity {
         startActivity(it);
     }
 
-    public void gotoallsong(View v) {
-        Intent it=new Intent(this,allsong.class);
+    public void gotoplay(View v) {
+        Intent it=new Intent(this,play.class);
         startActivity(it);
     }
+
+    public void gotofavorite(View v) {
+        Intent it=new Intent(this,favorite_music.class);
+        startActivity(it);
+    }
+
 }
