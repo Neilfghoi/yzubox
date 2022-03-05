@@ -15,7 +15,7 @@
         <activity android:name=".recent_music" />
         <activity android:name=".download" />
         <activity android:name=".allsong" />
-        <activity android:name=".forgrt" />
+        <activity android:name=".forget" />
         <activity android:name=".register" />
         <activity android:name=".in_room" />
         <activity android:name=".room" />
