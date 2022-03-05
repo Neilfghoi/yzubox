@@ -23,7 +23,7 @@
             android:text="我的" />
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/songroom"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -32,14 +32,14 @@
             android:textColor="#FFFFFF" />
 
         <Button
-            android:id="@+id/button10"
+            android:id="@+id/search"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="搜尋" />
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/setting"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"

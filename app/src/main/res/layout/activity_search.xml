@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".search">
+    tools:context=".mine">
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -64,24 +64,27 @@
             android:textStyle="bold" />
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/songroom"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="gotoroom"
             android:text="歌房" />
 
         <Button
-            android:id="@+id/button10"
+            android:id="@+id/search"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="gotosearch"
             android:text="搜尋" />
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/setting"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="gotosetting"
             android:text="設定" />
     </LinearLayout>
 

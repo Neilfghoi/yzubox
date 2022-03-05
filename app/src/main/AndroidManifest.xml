@@ -20,7 +20,7 @@
         <activity android:name=".in_room" />
         <activity android:name=".room" />
         <activity android:name=".play" />
-        <activity android:name=".search" />
+        <activity android:name=".mine" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
