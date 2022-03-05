@@ -11,7 +11,7 @@ public class mine extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_search);
+        setContentView(R.layout.activity_mine);
     }
 
     public void gotoallsong(View v) {
@@ -39,8 +39,8 @@ public class mine extends AppCompatActivity {
         startActivity(it);
     }
 
-    public void gotosearch(View v) {
-        Intent it=new Intent(this,search.class);
+    public void gotofindoutter(View v) {
+        Intent it=new Intent(this,find_outter.class);
         startActivity(it);
     }
 
